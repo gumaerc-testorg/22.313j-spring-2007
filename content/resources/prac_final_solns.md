@@ -5,8 +5,13 @@ description: This resource contains a practice final exam with solutions to ques
   tension effects in borated water draining from a BWR standby liquid control tank,
   flow split between a heated and an adiabatic channel, and quenching experiments
   to stimulate boiling heat transfer during a LB-LOCA.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-313j-thermal-hydraulics-in-power-technology-spring-2007/4213f605b343bfe290b4260d19a26363_prac_final_solns.pdf
+file: /media/courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/4213f605b343bfe290b4260d19a26363_prac_final_solns.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: prac_final_solns.pdf
 uid: 4213f605-b343-bfe2-90b4-260d19a26363
