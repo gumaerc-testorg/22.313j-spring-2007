@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5df62912-28ab-26e8-071d-1dd24f3547b0
 resourcetype: Document
 title: chf_shape.pdf
 uid: 8368012c-6afa-4928-5bb3-be88f5c1d652

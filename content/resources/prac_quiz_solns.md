@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 3013268a-83ca-c738-7ac0-5ec6958e92f1
 resourcetype: Document
 title: prac_quiz_solns.pdf
 uid: c402c891-270e-c4a7-0f6b-e23267cb7f41

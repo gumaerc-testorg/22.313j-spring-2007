@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5df62912-28ab-26e8-071d-1dd24f3547b0
 resourcetype: Document
 title: ho_lec07_09.pdf
 uid: 0af16fcb-fac7-c6f6-6b91-82bff1bf76c7

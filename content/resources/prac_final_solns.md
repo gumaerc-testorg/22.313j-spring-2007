@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 3013268a-83ca-c738-7ac0-5ec6958e92f1
 resourcetype: Document
 title: prac_final_solns.pdf
 uid: 4213f605-b343-bfe2-90b4-260d19a26363

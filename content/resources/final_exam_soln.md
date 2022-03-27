@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 3013268a-83ca-c738-7ac0-5ec6958e92f1
 resourcetype: Document
 title: final_exam_soln.pdf
 uid: 35028317-62e2-c85f-771d-1733141c99d6

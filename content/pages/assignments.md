@@ -24,38 +24,38 @@ Problem Set 7 ([PDF]({{< baseurl >}}/resources/hw_7))
 MATLAB® Code: Properties of Water
 ---------------------------------
 
-Saturation Pressure at a Given Temperature T ([M](/courses/nuclear-engineering/22-313j-thermal-hydraulics-in-power-technology-spring-2007/assignments/ps.m))
+Saturation Pressure at a Given Temperature T ([M]({{< baseurl >}}/resources/ps))
 
-Saturation Temperature at a Given Pressure ([M](/courses/nuclear-engineering/22-313j-thermal-hydraulics-in-power-technology-spring-2007/assignments/ts.m))
+Saturation Temperature at a Given Pressure ([M]({{< baseurl >}}/resources/ts))
 
-Liquid Enthalphy at T ([M](/courses/nuclear-engineering/22-313j-thermal-hydraulics-in-power-technology-spring-2007/assignments/hf.m))
+Liquid Enthalphy at T ([M]({{< baseurl >}}/resources/hf))
 
-Gas Saturation Enthalpy at T ([M](/courses/nuclear-engineering/22-313j-thermal-hydraulics-in-power-technology-spring-2007/assignments/hg.m))
+Gas Saturation Enthalpy at T ([M]({{< baseurl >}}/resources/hg))
 
-Evaporation Enthalpy at T ([M](/courses/nuclear-engineering/22-313j-thermal-hydraulics-in-power-technology-spring-2007/assignments/hfg.m))
+Evaporation Enthalpy at T ([M]({{< baseurl >}}/resources/hfg))
 
-Liquid Specific Internal Energy at T ([M](/courses/nuclear-engineering/22-313j-thermal-hydraulics-in-power-technology-spring-2007/assignments/uf.m))
+Liquid Specific Internal Energy at T ([M]({{< baseurl >}}/resources/uf))
 
-Vapor Specific Internal Energy at T ([M](/courses/nuclear-engineering/22-313j-thermal-hydraulics-in-power-technology-spring-2007/assignments/ug.m))
+Vapor Specific Internal Energy at T ([M]({{< baseurl >}}/resources/ug))
 
-Fluid Specific Entropy at T ([M](/courses/nuclear-engineering/22-313j-thermal-hydraulics-in-power-technology-spring-2007/assignments/sf.m))
+Fluid Specific Entropy at T ([M]({{< baseurl >}}/resources/sf))
 
-Vapor Specific Entropy at T ([M](/courses/nuclear-engineering/22-313j-thermal-hydraulics-in-power-technology-spring-2007/assignments/sg.m))
+Vapor Specific Entropy at T ([M]({{< baseurl >}}/resources/sg))
 
-Fluid Specific Volume at T ([M](/courses/nuclear-engineering/22-313j-thermal-hydraulics-in-power-technology-spring-2007/assignments/vf.m))
+Fluid Specific Volume at T ([M]({{< baseurl >}}/resources/vf))
 
-Gas Specific Volume at T ([M](/courses/nuclear-engineering/22-313j-thermal-hydraulics-in-power-technology-spring-2007/assignments/vg.m))
+Gas Specific Volume at T ([M]({{< baseurl >}}/resources/vg))
 
-Fluid Specific Heat at T ([M](/courses/nuclear-engineering/22-313j-thermal-hydraulics-in-power-technology-spring-2007/assignments/cpf.m))
+Fluid Specific Heat at T ([M]({{< baseurl >}}/resources/cpf))
 
-Gas Specific Heat at T ([M](/courses/nuclear-engineering/22-313j-thermal-hydraulics-in-power-technology-spring-2007/assignments/cpg.m))
+Gas Specific Heat at T ([M]({{< baseurl >}}/resources/cpg))
 
-Fluid Thermal Conductivity at T ([M](/courses/nuclear-engineering/22-313j-thermal-hydraulics-in-power-technology-spring-2007/assignments/kf.m))
+Fluid Thermal Conductivity at T ([M]({{< baseurl >}}/resources/kf))
 
-Gas Thermal Conductivity at T ([M](/courses/nuclear-engineering/22-313j-thermal-hydraulics-in-power-technology-spring-2007/assignments/kg.m))
+Gas Thermal Conductivity at T ([M]({{< baseurl >}}/resources/kg))
 
-Fluid Dynamic Viscosity at T ([M](/courses/nuclear-engineering/22-313j-thermal-hydraulics-in-power-technology-spring-2007/assignments/muf.m))
+Fluid Dynamic Viscosity at T ([M]({{< baseurl >}}/resources/muf))
 
-Gas Dynamic Viscosity at T ([M](/courses/nuclear-engineering/22-313j-thermal-hydraulics-in-power-technology-spring-2007/assignments/mug.m))
+Gas Dynamic Viscosity at T ([M]({{< baseurl >}}/resources/mug))
 
-Surface Tension at T ([M](/courses/nuclear-engineering/22-313j-thermal-hydraulics-in-power-technology-spring-2007/assignments/sigma.m))
+Surface Tension at T ([M]({{< baseurl >}}/resources/sigma))
