@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a MATLAB file for a problem set.
-file: /media/courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/9aad34181e05db4f6d531dda6743899f_muf.m
+file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/9aad34181e05db4f6d531dda6743899f_muf.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: muf.m
 uid: 9aad3418-1e05-db4f-6d53-1dda6743899f
 ---
+This resource is a MATLAB file for a problem set.
+

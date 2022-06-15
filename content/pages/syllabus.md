@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: This section provides the course summary and information on the course
+  objective, texts, prerequisites, grading, homework and reading assignment practices,
+  and a calendar of lecture topics and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 61b6575b-f566-b6a7-0918-275265084fd0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -48,7 +55,7 @@ Collier, J. G., and J. R. Thome. _Convective Boiling and Condensation_. 3rd ed. 
 
 Todreas, N. E. and M. S. Kazimi. _Nuclear Systems_. Vol. 2. New York, NY: Francis & Taylor, 1990. ISBN: 9781560320791.
 
-Students may wish to consult other useful references listed in the [readings]({{< baseurl >}}/pages/readings) section.
+Students may wish to consult other useful references listed in the {{% resource_link 5df62912-28ab-26e8-071d-1dd24f3547b0 "readings" %}} section.
 
 Prerequisites
 -------------

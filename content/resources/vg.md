@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a MATLAB file for a problem set.
-file: /media/courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/e69e232415923607819fa4f0b9c4d787_vg.m
+file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/e69e232415923607819fa4f0b9c4d787_vg.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: vg.m
 uid: e69e2324-1592-3607-819f-a4f0b9c4d787
 ---
+This resource is a MATLAB file for a problem set.
+
