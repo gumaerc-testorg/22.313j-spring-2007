@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides information on course textbooks and readings by
+  lecture session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 5df62912-28ab-26e8-071d-1dd24f3547b0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Textbooks
@@ -162,7 +171,7 @@ C&T, sections 3.1-3.4
 
 ### Handout
 
-EPRI correlation for void fraction in vertical flow (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ho_lec05)) (Courtesy of the Idaho National Laboratory.)
+EPRI correlation for void fraction in vertical flow ({{% resource_link 82ecaf99-63c8-31b3-accb-d8c7acad1854 "PDF" %}}) (Courtesy of the Idaho National Laboratory.)
 
 
 {{< tdclose >}}
@@ -320,7 +329,7 @@ Boiling crisis: Departure from nucleate boiling
 
 C&T, sections 8, 9.1-9.2, and 9.7
 
-The shape factor for DNB heat flux calculation in non-uniform heated channels ([PDF]({{< baseurl >}}/resources/chf_shape))
+The shape factor for DNB heat flux calculation in non-uniform heated channels ({{% resource_link 8368012c-6afa-4928-5bb3-be88f5c1d652 "PDF" %}})
 
 ### Handout
 
