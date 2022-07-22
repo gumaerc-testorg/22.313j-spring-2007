@@ -5,6 +5,7 @@ file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/e69e23
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: vg.m
 uid: e69e2324-1592-3607-819f-a4f0b9c4d787
 ---
 This resource is a MATLAB file for a problem set.
-

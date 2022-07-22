@@ -6,6 +6,7 @@ file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/836801
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 The shape factor for DNB heat flux calculation in non-uniform heated channels.
-

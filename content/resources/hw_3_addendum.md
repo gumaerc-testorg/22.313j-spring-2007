@@ -6,6 +6,7 @@ file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/b58d9a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains a supplement to a problem set on channel instability in heated laminar helium flow.
-

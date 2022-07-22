@@ -9,6 +9,7 @@ file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/4213f6
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains a practice final exam with solutions to questions on hydraulic analysis of the PWR primary system at cold zero-power conditions, surface tension effects in borated water draining from a BWR standby liquid control tank, flow split between a heated and an adiabatic channel, and quenching experiments to stimulate boiling heat transfer during a LB-LOCA.
-

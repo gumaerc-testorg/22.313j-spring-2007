@@ -5,6 +5,7 @@ file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/a0cc38
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: kf.m
 uid: a0cc38bb-5e04-fa77-feba-468e6563dc1d
 ---
 This resource is a MATLAB file for a problem set.
-

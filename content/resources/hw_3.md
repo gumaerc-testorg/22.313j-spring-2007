@@ -6,6 +6,7 @@ file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/d1359b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains a problem set on steam separation in a PWR U-tube steam generator.
-

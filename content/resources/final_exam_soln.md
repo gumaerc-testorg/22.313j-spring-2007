@@ -7,6 +7,7 @@ file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/350283
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains a final exam with solutions to questions on steady-state natural circulation in a steam generation system, water boiling during a loss-of-flow transient in a home heating system, and short questions on bubble nucleation.
-

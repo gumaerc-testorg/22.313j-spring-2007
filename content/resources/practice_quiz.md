@@ -7,6 +7,7 @@ file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/6c452a
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains a practice midterm exam with questions on calculation of flow quality from void fraction measurements, pressure drop in accelerating single-phase flow, and sizing of a turbulent-deposition air/water separator.
-
