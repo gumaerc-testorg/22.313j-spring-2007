@@ -6,6 +6,7 @@ description: This resource contains a practice final exam with questions on hydr
   between a heated and an adiabatic channel, and quenching experiments to stimulate
   boiling heat transfer during a LB-LOCA.
 file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/c97635e31e023812f111c39479812411_practice_final.pdf
+file_size: 115163
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -6,6 +6,7 @@ description: This resource contains a practice final exam with solutions to ques
   flow split between a heated and an adiabatic channel, and quenching experiments
   to stimulate boiling heat transfer during a LB-LOCA.
 file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/4213f605b343bfe290b4260d19a26363_prac_final_solns.pdf
+file_size: 114992
 file_type: application/pdf
 learning_resource_types:
 - Exams
