@@ -4,7 +4,7 @@ description: This resource contains a mid-term exam with questions on bubbly flo
   of air in a vinegar fermentation tank, droplets generation and removal in a steam
   turbine, and effect of droplet entrainment on void fraction and pressure drop in
   annular flow.
-file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/70a94dde73b13c837827892db6cc45a9_midterm.pdf
+file: /ol-ocw-studio-app/courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/70a94dde73b13c837827892db6cc45a9_midterm.pdf
 file_size: 111357
 file_type: application/pdf
 learning_resource_types:

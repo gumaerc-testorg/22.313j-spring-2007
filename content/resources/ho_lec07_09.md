@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/0af16fcbfac7c6f66b9182bff1bf76c7_ho_lec07_09.pdf
+file: /ol-ocw-studio-app/courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/0af16fcbfac7c6f66b9182bff1bf76c7_ho_lec07_09.pdf
 file_size: 3470436
 file_type: application/pdf
 learning_resource_types:

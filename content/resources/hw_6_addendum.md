@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a supplement to a problem set on two-phase flow
   and boiling heat transfer.
-file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/69897e478d86b3383c50f112676949cc_hw_6_addendum.pdf
+file: /ol-ocw-studio-app/courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/69897e478d86b3383c50f112676949cc_hw_6_addendum.pdf
 file_size: 91167
 file_type: application/pdf
 learning_resource_types:
