@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a MATLAB file for a problem set.
-file: /ol-ocw-studio-app/courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/a8dc9b0e399c5a247f60c40089b8c07b_hg.m
+file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/a8dc9b0e399c5a247f60c40089b8c07b_hg.m
 file_size: 414
 file_type: text/plain
 learning_resource_types:

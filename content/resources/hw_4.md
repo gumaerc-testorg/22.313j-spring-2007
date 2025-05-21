@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a problem set on pool boiling in a stainless steel
   kettle.
-file: /ol-ocw-studio-app/courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/a9cfaf22c3df5609aa806b1ed9eff35f_hw_4.pdf
+file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/a9cfaf22c3df5609aa806b1ed9eff35f_hw_4.pdf
 file_size: 91979
 file_type: application/pdf
 learning_resource_types:
