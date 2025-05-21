@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a problem set on calculation of the MDNBR in the
   PWR hot channel and thermal analysis of the BWR fuel assembly.
-file: /ol-ocw-studio-app/courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/aa0b7a96199c73aa03daf515cf769663_hw_6.pdf
+file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/aa0b7a96199c73aa03daf515cf769663_hw_6.pdf
 file_size: 37724
 file_type: application/pdf
 learning_resource_types:
